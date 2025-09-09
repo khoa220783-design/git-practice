@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <DANH TRAN DANG KHOA>, MSSV <220783>.
+Đây là README từ nhánh conflict-demo.
